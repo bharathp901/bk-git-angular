@@ -57,3 +57,18 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+# Additional Comments
+I am sharing my solution for the offline task provided to me. 
+
+The solution provides a very high level design of the task allowing the user to login to an email with credentials and able to access the messages in the inbox, sent or trash folders. Each functionality is split into independent components allowing scalability to add more features with smooth execution.
+
+More featutres - 
+Add api's to process realtime data using the api calls
+Use more functionalities of UI styling for better and user friendly UI.
+
+below are the reason's for not adding more features - 
+1) Time constraint, considering the amount of time i could spend and avoid delay in response sharing my first commit data. 
+2) In my previous experience i have used more .css styling and need to look into in depth related to .scss styling to play around with it.
+
+Thank you!
